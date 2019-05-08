@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.movingrotatedmarker",
+  "version": "0.0.1",
+  "description": "Enables movement and rotation of marker icons in Leaflet",
+  "main": "leaflet.movingRotatedMarker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luks87zg/Leaflet.MovingRotatedMarker.git"
+  },
+  "author": "luks87zg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luks87zg/Leaflet.MovingRotatedMarker/issues"
+  },
+  "homepage": "https://github.com/luks87zg/Leaflet.MovingRotatedMarker#readme"
+}
