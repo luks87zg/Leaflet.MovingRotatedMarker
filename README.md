@@ -3,7 +3,7 @@
 This plugin is combination of two plugins <a href="https://github.com/bbecquet/Leaflet.RotatedMarker" target="_blank">Leaflet.RotatedMarker</a>
 and <a href="https://gitlab.com/IvanSanchez/Leaflet.Marker.SlideTo" target="_blank">Leaflet.Marker.SlideTo</a>
 
-Enables movement and rotation of marker icons in Leaflet. <a href="http://luks87zg.github.io/Leaflet.MovingRotatedMarker/example.html" target="_blank">Demo</a>
+Enables movement and rotation of marker icons in Leaflet. <a href="http://luks87zg.github.io/Leaflet.MovingRotatedMarker/example" target="_blank">Demo</a>
 
 Compatible with versions 0.7.* and 1.* of Leaflet. Doesn't work on IE < 9.
 
