@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.movingrotatedmarker",
+  "name": "leaflet-moving-rotated-marker",
   "version": "0.0.1",
   "description": "Enables movement and rotation of marker icons in Leaflet",
   "main": "leaflet.movingRotatedMarker.js",
